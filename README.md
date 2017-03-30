@@ -1,13 +1,13 @@
 How to run:
 
-##Requirements
+#Requirements
 
 * Python 3
   * OpenAI Gym
 * Lua 5.1
 * FCEUX
 
-##Setup
+#Setup
 
 **Install FCEUX**
 
