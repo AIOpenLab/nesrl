@@ -1,1 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
+# JetBrains IDE cruft
+.idea
+nesrl.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints
