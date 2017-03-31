@@ -9,17 +9,19 @@ How to run:
 
 ### Setup
 
-**Install FCEUX**
+**OSX:**
 
-`brew install fceux`
+    brew install fceux
+    brew install lua@5.1
+    luarocks-5.1 install luasocket
 
-**Install Lua 5.1**
+**Ubuntu:**
 
-`brew install lua@5.1`
+    sudo apt-get install fceux
+    sudo apt-get install lua5.1
+    sudo luarocks install luasocket
 
-**Install LuaSocket**
-
-`luarocks install luasocket`
+### Running the code:
 
 **Run FCEUX**
 
@@ -30,3 +32,4 @@ How to run:
 `python mtpo_agent.py [BoutName]`
 
 e.g. `python mtpo_agent.py GlassJoe`
+
